@@ -1,0 +1,16 @@
+var monday = 560;
+var tuesday = 900;
+var wednesday = 450;
+var thursday = 500;
+var friday = 260;
+var satday = 800;
+var sunday = 750;
+var week = [560, 900, 450, 500, 260, 800, 750];
+console.log(week[0]);
+console.log(week[1]);
+console.log(week[2]);
+console.log(week[3]);
+console.log(week[4]);
+console.log(week[5]);
+console.log(week[6]);
+console.log("array length is : " + week.length);

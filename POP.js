@@ -5,7 +5,7 @@ function Addition(no1, no2) {
 }
 function substraction(no1, no2) {
     var ans = 0;
-    ans = no1 - no2;
+    ans = no1  - no2;
     return ans;
 }
 var a = 11;
